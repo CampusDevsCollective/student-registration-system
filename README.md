@@ -1,6 +1,6 @@
 # Student Registration System 🎓
 
-A web-based system to help KAMPALA INTERNATIONAL UNIVERSITY manage student registration, course selection, and data storage.
+A web-based system to help education organisations manage student registration, course selection, and data storage.
 
 ### 🎯 Problem We're Solving
 Long queues, paper forms, and lost student data during registration week.
