@@ -28,8 +28,8 @@ Long queues, paper forms, and lost student data during registration week.
 | Name | Role | GitHub |
 | --- | --- | --- |
 |Jason Ariho B  | Project Lead | @Jason-kiu |
-| [Member 2] | Backend | @member2 |
-| [Member 3] | Frontend | @member3 |
+| Isaac Seki | Backend | @isaacsekiziyivu |
+| Niwaha Salma | Frontend | @niwahasa |
 
 ### 📅 Sprint Plan
 **Week 2**: DB Design + Login System
